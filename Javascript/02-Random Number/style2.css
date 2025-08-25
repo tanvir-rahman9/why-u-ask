@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 3em;
+    color: white;
+    background-color: rgb(188, 38, 138);
+    border-radius: 18px;
+    padding: 5px 25px;
+    cursor: pointer;
+    border-color: rgb(192, 12, 12);
+    
+
+
+}
+
+#myButton:hover{
+    background-color: rgb(159, 31, 116);
+}
+
+
+.myLable{
+    font-size: 3em; 
+    color: rgb(228, 228, 230);
+    background-color: rgb(67, 9, 122);
+    border-radius: 25px;
+}
